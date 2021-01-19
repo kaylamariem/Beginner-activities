@@ -30,3 +30,4 @@ bomb_energy = get_energy(bomb_mass)
 print("A 1kg bomb supplies "+str(bomb_energy)+" Joules.")
 train_work = get_work(train_mass, train_acceleration, train_distance)
 print("The GE train does "+str(train_work)+" Joules of work over "+str(train_distance)+" meters.")
+
