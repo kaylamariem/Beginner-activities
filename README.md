@@ -1,5 +1,5 @@
 ## Activities
-Hi! I am Kayla. I am new in programming. I choose python as my first programming language to master because I am interested in building rest-api frameworks, and creating automation tools using it for future projects and I love the modules that you can use in python.
+Hi! I am Kayla. I am new in programming. I choose python as my first programming language to master because I am interested in building rest-api frameworks, and creating automation tools using it for future projects and I love the modules that you can use in python. But for now I will start my programming journey from the basics.
 
 - script.py
 Problem: You are a physics teacher preparing for the upcoming semester. You want to provide your students with some functions that will help them calculate some fundamental physical properties.
